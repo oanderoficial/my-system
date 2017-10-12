@@ -11,4 +11,3 @@ Ferramenta em bash para obter informações básicas do sistema
 </ol>
 <img src="https://raw.githubusercontent.com/And3R66/my-system/master/Screenshots/Screenshot01.png">
 <img src="https://raw.githubusercontent.com/And3R66/my-system/master/Screenshots/Screenshot02.png">
-<img src="https://raw.githubusercontent.com/And3R66/my-system/master/Screenshots/Screenshot03.png">
