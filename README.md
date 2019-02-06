@@ -6,7 +6,7 @@ Ferramenta em bash para obter informações básicas do sistema
 
 
 <ol>
-<li><code>git clone https://github.com/And3R66/my-system.git</code></li>
+<li><code>git clone https://github.com/oandersonbsilva/my-system.git</code></li>
 <li><code>cd my-system</code></li>
 <li><code>chmod a+x my-system.sh</code></li>
 <li><code>sudo ./my-system.sh ou sudo su ./my-system.sh</code></li>
