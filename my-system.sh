@@ -14,7 +14,7 @@ echo -e $okegreen "
 echo "Autor: Anderson.b.Silva"
 echo ""
 
-select i in Processador Memória Unidades/montadas Drivers/vídeo Placa/Som Resolução/Telas Hostname Data/Instalação Rede scanner Espaço/Disco Sistema Logs sair
+select i in Processador Memória Unidades/montadas Drivers/vídeo Placa/Som Resolução/Telas Hostname Data/Instalação Rede Espaço/Disco Sistema Logs sair
 do
 
    case "$i" in
@@ -82,20 +82,7 @@ do
           sleep 0.15
 
            ;;
-
-       scanner)
-        echo ""
-        echo -e "\tDigite o ip: \n"
-        read ip
-        echo -e "\tColoque o primeiro numero de: \n"
-        read porta
-        echo -e "\tColoque o segundo numero $porta ha:\n"
-        read porta2
-        echo -e "\tcontinuar [enter]\n"
-        read
-        echo -e `netcat -vv $ip $porta\-\$porta2`
-           ;;
-
+           
        Espaço/Disco)
        echo "Verificação de espaço em disco"
        df -h
