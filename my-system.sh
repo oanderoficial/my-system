@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 okegreen='\033[92m'
 
