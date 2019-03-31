@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+#Acesso ROOT. 
+
+[ $UID -ne '0' ] && { echo "Necessário ter Acesso ROOT."; exit 1 ;}
+
+okegreen='\033[92m'
 okegreen='\033[92m'
 
 echo -e $okegreen "
