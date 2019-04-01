@@ -1,3 +1,6 @@
+[![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20x64%20%7C%20Linux%20x86-inactive.svg)](https://github.com/oandersonbsilva/wiresec)
+[![user](https://img.shields.io/badge/user-ROOT-red.svg)](https://github.com/oandersonbsilva/wiresec)
+
 <img src="https://raw.githubusercontent.com/And3R66/my-system/master/1logo.png">
 
 Ferramenta em bash para obter informações básicas do sistema
