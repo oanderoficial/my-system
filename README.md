@@ -1,5 +1,5 @@
-[![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20x64%20%7C%20Linux%20x86-inactive.svg)](https://github.com/oandersonbsilva/wiresec)
-[![user](https://img.shields.io/badge/user-ROOT-red.svg)](https://github.com/oandersonbsilva/wiresec)
+[![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20x64%20%7C%20Linux%20x86-inactive.svg)](https://github.com/oandersonbsilva/my-system)
+[![user](https://img.shields.io/badge/user-ROOT-red.svg)](https://github.com/oandersonbsilva/my-system)
 
 <img src="https://raw.githubusercontent.com/And3R66/my-system/master/1logo.png">
 
