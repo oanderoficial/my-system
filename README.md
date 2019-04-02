@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/And3R66/my-system/master/1logo.png">
 
-Ferramenta em bash para obter informações básicas do sistema
+Ferramenta em shell para obter informações básicas do sistema
 
 # instalação
 
