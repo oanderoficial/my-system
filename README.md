@@ -9,7 +9,7 @@ Ferramenta em shell para obter informações básicas do sistema
 
 
 <ol>
-<li><code>git clone https://github.com/oandersonbsilva/my-system.git</code></li>
+<li><code>git clone https://github.com/bitcoinander/my-system.git</code></li>
 <li><code>cd my-system</code></li>
 <li><code>chmod a+x my-system.sh</code></li>
 <li><code>./my-system.sh </code></li>
